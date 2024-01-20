@@ -1,0 +1,15 @@
+D:\Projects\ChefPatterns\ChefPatterns\bin\Debug\net6.0\ChefPatterns.exe
+D:\Projects\ChefPatterns\ChefPatterns\bin\Debug\net6.0\ChefPatterns.deps.json
+D:\Projects\ChefPatterns\ChefPatterns\bin\Debug\net6.0\ChefPatterns.runtimeconfig.json
+D:\Projects\ChefPatterns\ChefPatterns\bin\Debug\net6.0\ChefPatterns.dll
+D:\Projects\ChefPatterns\ChefPatterns\bin\Debug\net6.0\ChefPatterns.pdb
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.csproj.AssemblyReference.cache
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.AssemblyInfoInputs.cache
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.AssemblyInfo.cs
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.csproj.CoreCompileInputs.cache
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.dll
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\refint\ChefPatterns.dll
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.pdb
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ChefPatterns.genruntimeconfig.cache
+D:\Projects\ChefPatterns\ChefPatterns\obj\Debug\net6.0\ref\ChefPatterns.dll
